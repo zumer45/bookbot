@@ -1,4 +1,5 @@
 Text Analysis Project
+
 This repository contains a Python script for analyzing text documents, specifically designed for educational purposes as part of an assignment from boot.dev. The project focuses on analyzing Mary Shelley's "Frankenstein," counting the frequency of each letter and the total number of words in the text.
 
 Project Description
